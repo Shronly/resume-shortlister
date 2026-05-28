@@ -1,13 +1,3 @@
----
-title: Resume Shortlister AI
-emoji: 🤖
-colorFrom: blue
-colorTo: purple
-sdk: docker
-app_file: app.py
-pinned: false
----
-
 # 🤖 Resume Shortlister AI
 
 An intelligent resume shortlisting system built with RAG (Retrieval Augmented Generation) 
